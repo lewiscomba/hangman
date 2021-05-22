@@ -1,7 +1,7 @@
 import getopt, sys
 
 
-#my comment 2
+#my comment 222
 
 # Ask the user to enter the names of files to compare
 number = input("Enter the a number: ")
